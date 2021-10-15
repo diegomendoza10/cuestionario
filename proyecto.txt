@@ -1,0 +1,22 @@
+Alejandro herz chavez
+Diego mendoza gutierrez
+
+1.-En tus palabras, ¿Qué es internet?
+es una red q nos ayuda a conectarnos a al mundo web
+2.-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+ Pares trenzados, Cable coaxial, fibra óptica, Radio enlaces de VHF,UHF y Microns
+3.-¿Cómo se organiza internet? Habla de las direcciones IP y los 
+el internet es la autoridad que coordina la asignación de identificadores en internet, como direcciones ip 
+4.-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Spotify transfiere archivos de audio por internet a través de la combinación  de servidores de streaming.
+ se transfiere a través de una red llamada red de pares 
+5.-Describe los protocolos que existen en internet, en específico HTTP y HTML
+TCP/IP FTP HTTP SMTP NNTP IRC TELNET GOPHER
+6.-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+El cifrado de llave pública permite a alguien enviar su llave pública en un canal abierto e inseguro. 
+7.-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Usar distintas aplicaciones de seguridad, usar contraseñas seguras y cambiarlas constantemente
+8.-¿Cómo funciona la búsqueda de google?
+Una vez que descubrimos la URL de una página, la visitamos (rastreamos) para averiguar qué contiene. 
+Renderizamos la página y analizamos el contenido textual y no textual, además del diseño visual general, 
+para decidir cómo mostrarla en los resultados de la Búsqueda.
